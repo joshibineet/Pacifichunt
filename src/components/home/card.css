@@ -1,0 +1,41 @@
+.what_card{
+    margin-left: 7rem;
+    width: 50%;
+   
+   
+}
+.card_content{
+    background-color: white;
+    min-width: 500px;
+    padding: 2rem;
+    
+    border-radius: 12px;
+    
+}
+.card_top{
+    padding-bottom: 2rem;
+}
+.card_mid{
+   padding-bottom: 2rem;
+font-size: 12px;
+font-style: italic;
+color: rgba(60, 61, 61, 1);
+line-height: 22px;
+
+
+}
+.card_bottom{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.profile_name{
+    font-size: 16px;
+    color: rgba(60, 61, 61, 1);
+    font-weight: 600;
+}
+.profile_job{
+    color: rgba(134, 136, 138, 1);
+    font-size: 12px;
+    font-weight: 400;
+}

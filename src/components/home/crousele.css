@@ -1,0 +1,47 @@
+.what_client {
+    background-color: rgba(245, 246, 246, 1);
+    padding-bottom: 3rem;
+    
+    
+  }
+  .card_container{
+    overflow: hidden;
+  }
+  .what_top {
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 7rem;
+  }
+  .what_paragraph {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+  .what_paragraph span {
+    color: rgba(1, 163, 224, 1);
+  }
+  .what_buttons {
+    display: flex;
+    gap: 1rem;
+    
+  }
+  .what_buttons button{
+    border: none;
+    border-radius: 42px;
+  }
+  .page_outof{
+    
+    display: flex;
+    font-size: 20px;
+    font-weight: 500;
+    align-items: center;
+  }
+  .page{
+    color: rgba(1, 163, 224, 1);
+  }
+  /* .card_container div{
+    display: flex;
+    gap: 20px;
+    margin-right: 1rem;
+    
+  } */
